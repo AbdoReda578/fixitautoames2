@@ -1,0 +1,23 @@
+{
+  "name": "Fix It Auto Repair",
+  "short_name": "Fix It Auto",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#1E3A8A",
+  "icons": [
+    {
+      "src": "/fix-it-logo-308w.jpg",
+      "sizes": "308x308",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/fix-it-logo-1920w.jpg",
+      "sizes": "1920x1920",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
+
